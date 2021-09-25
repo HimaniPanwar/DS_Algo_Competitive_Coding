@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class BandProblem{
-    
+    //Function to check longest subsequence in which consecutive elements differ by 1
     public static int largestBand(int[] arr){
 
         Set<Integer> set = new HashSet<Integer>();
