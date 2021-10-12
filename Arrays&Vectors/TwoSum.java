@@ -3,6 +3,7 @@ import java.util.HashMap;
 //Function to return index of elements which add up to a target sum
 public class TwoSum {
     public int[] twoSum(int[] nums, int target) {
+        
         HashMap<Integer,Integer> map = new HashMap<>();
         int[] result = new int[2];
         

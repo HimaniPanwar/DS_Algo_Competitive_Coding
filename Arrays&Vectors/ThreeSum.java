@@ -1,8 +1,8 @@
+//Function to return triplets whose sum equals to zero (No duplicates)
 import java.util.*;
 
 public class ThreeSum {
 
-        //Function to return triplets whose sum equals to zero (No duplicates)
         public List<List<Integer>> threeSum(int[] nums) {
             List<List<Integer>> result = new ArrayList<List<Integer>>();
             
