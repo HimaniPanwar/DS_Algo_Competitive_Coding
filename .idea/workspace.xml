@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd4b603d-b5aa-4368-b281-4c8a390899ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Arrays&amp;Vectors/ArrayProducts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays&amp;Vectors/BandProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays&amp;Vectors/BusyLife.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays&amp;Vectors/MaximumSubArraySum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays&amp;Vectors/MinimumDifference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays&amp;Vectors/MinimumSwaps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays&amp;Vectors/MountainProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays&amp;Vectors/SubarraySort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays&amp;Vectors/ThreeSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays&amp;Vectors/TrappingRain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays&amp;Vectors/TwoSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Space20.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="216VVuArx17ZPuJxDVOON1BxQCX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.SpaceTwenty">
+    <configuration name="SpaceTwenty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.SpaceTwenty" />
+      <module name="DS_AND_Algo_Competitve_Coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="findMissingAndRepeatingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="findMissingAndRepeatingNumber" />
+      <module name="Striver SDE sheet" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpaceTwenty" />
+        <item itemvalue="Application.findMissingAndRepeatingNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd4b603d-b5aa-4368-b281-4c8a390899ec" name="Default Changelist" comment="" />
+      <created>1637261551236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637261551236</updated>
+    </task>
+    <servers />
+  </component>
+</project>
