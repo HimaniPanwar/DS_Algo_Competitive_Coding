@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class reversePairs {
-        public int reversePairs(int[] nums) {
+        public int reversePair(int[] nums) {
             return mergeSort(nums,0,nums.length-1);
         }
         
