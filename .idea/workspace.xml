@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd4b603d-b5aa-4368-b281-4c8a390899ec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Arrays&amp;Vectors/ArrayProducts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays&amp;Vectors/BandProblem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays&amp;Vectors/BusyLife.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays&amp;Vectors/MaximumSubArraySum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays&amp;Vectors/MinimumDifference.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays&amp;Vectors/MinimumSwaps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays&amp;Vectors/MountainProblem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays&amp;Vectors/SubarraySort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays&amp;Vectors/ThreeSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays&amp;Vectors/TrappingRain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays&amp;Vectors/TwoSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strings/Space20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
