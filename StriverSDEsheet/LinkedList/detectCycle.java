@@ -1,5 +1,7 @@
 package StriverSDEsheet.LinkedList;
 
+//Floyd's slow and fast pointer approch
+
 public class detectCycle{
     public boolean hasCycle(ListNode head) {
         if(head==null || head.next==null){
@@ -20,4 +22,4 @@ public class detectCycle{
     }
 }
 
-//Problem Link: https://leetcode.com/problems/linked-list-cycle/
+//Problem Link: https://leetcode.com/problems/linked-list-cycle/s
