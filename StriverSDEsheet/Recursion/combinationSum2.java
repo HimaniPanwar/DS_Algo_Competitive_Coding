@@ -3,7 +3,7 @@ package StriverSDEsheet.Recursion;
 import java.util.*;
 
 public class combinationSum2 {
-    public List<List<Integer>> combinationSum2(int[] candidates, int target) {
+    public List<List<Integer>> combinationSum2F(int[] candidates, int target) {
         Arrays.sort(candidates);
         List<List<Integer>> ans = new ArrayList<>();
         findComb(0,candidates,target,ans,new ArrayList<>());
